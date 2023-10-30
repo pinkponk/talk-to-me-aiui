@@ -1,0 +1,71 @@
+Intro
+Advocate for technology's role in shaping society
+Educational background:
+Degree in Mechanical Engineering
+Master's in Mechatronics from KTH, Stockholm
+Strong foundation in disciplines like neural networks, dynamics and motion control, AI, and embedded systems
+Professional experience at Saab AB and Intelligent Machines
+Passion for travel, learning, and board games
+Married and a father
+Committed to technology and innovation for a better future
+Timeline
+Paternity leave (2023 - Ongoing)
+
+Returning to work in September 2023
+Technical Product Manager (Data Fusion Product) (2021 - Ongoing)
+
+Saab Emerging Technologies AB
+Strategic product management
+Customer engagement, demonstrations, and collaboration
+Monitoring, quality control, and backlog prioritization
+Robotics Engineer (Part-time) (2014 - Ongoing)
+
+Intelligent Machines Stockholm AB
+Contributions to various projects
+Skills in Python, C++, ROS, OpenCV, and more
+Team Lead (Data Fusion Product) (2020 - 2021)
+
+Saab AB - Cyber Security Department
+Team expansion and development
+Full-stack development and AI model implementation
+System Developer (Data Fusion Product) (2018 - 2020)
+
+Saab AB - Cyber Security Department
+Creation of a military product and separate company
+Software Developer (Automatic Sea Surveillance) (2017 - 2018)
+
+Saab AB - Data Fusion Department
+Focus on sea surveillance and AI integration
+Master Thesis (2017)
+
+Deep learning in sea surveillance
+Published a paper
+Education (2011 - 2017)
+
+Royal Institute of Technology, KTH, Stockholm
+Mechanical Engineering and Mechatronics programs
+Scholarships and Summer Jobs
+
+Various awards and experiences
+Projects: Life Code
+Upcoming game for creating species and ecosystems
+Players write code in Python and JavaScript
+Focus on balancing ecosystems and species interactions
+Challenges in Rust, Bevy, 3D modeling, marketing, and implementing user-written code
+Technologies: Rust, Bevy, WASM, Blender, JavaScript, Python, Figma, AI tools
+Youtube Channel
+
+Documenting the development journey
+Public Code
+
+Open-sourced rendering code for the game
+Technologies Used
+
+React, Webpack, Yarn, Stable diffusion, Rust, Bevy, Blender, Figma, WASM, JavaScript, Python
+Papers
+Using Deep Learning for Classifying Ship Trajectories
+
+Application of deep learning in sea surveillance
+Classifying ship types from motion trajectories
+Addressing AIS data challenges
+Published in the 21st International Conference on Information Fusion (FUSION) in 2018

@@ -8,8 +8,10 @@ import openai
 
 AI_COMPLETION_MODEL = os.getenv("AI_COMPLETION_MODEL", "gpt-3.5-turbo")
 LANGUAGE = os.getenv("LANGUAGE", "en")
-INITIAL_PROMPT = f"You are AIUI - a helpful assistant with a voice interface. Keep your responses very succinct and limited to a single sentence since the user is interacting with you through a voice interface. Always provide your responses in the language that corresponds to the ISO-639-1 code: {LANGUAGE}."
 
+# Read the prompt.txt file into the INITIAL_PROMPT variable
+with open("prompt.txt", "r") as f:
+    INITIAL_PROMPT = f.read()
 
 async def get_completion(user_prompt, conversation_thus_far):
     if _is_empty(user_prompt):
