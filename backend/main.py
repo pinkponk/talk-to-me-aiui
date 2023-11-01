@@ -13,7 +13,7 @@ from stt import transcribe
 from tts import to_speech
 
 app = FastAPI()
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 
 
 @app.post("/inference")

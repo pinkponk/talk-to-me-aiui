@@ -49,7 +49,9 @@ tolerations: []
 affinity: {}
 
 elevenlabs:
-  voice: EXAVITQu4vr4xnSDxMaL
+  voice: 1ZdMv9wcsAeRJi20eG7s
+# Use this to find voice ID https://api.elevenlabs.io/docs#/voices/Get_voices_v1_voices_get
+
 
 llm:
   text_model: gpt-3.5-turbo
