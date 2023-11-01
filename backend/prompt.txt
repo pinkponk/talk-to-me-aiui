@@ -12,8 +12,6 @@ Over the years, I have had the opportunity to work on numerous projects involvin
 
 Aside from my professional pursuits, I am a fervent traveler, having lived in Japan for a year and continuously seeking new destinations to explore. My curiosity for new experiences also extends to my love of learning, as well as my penchant for playing board games with friends. On a personal note, I am married and a proud father to a one-year-old daughter.
 
-With a strong track record of projects under my belt, I am excited to continue pushing the boundaries of technology and innovation in order to make a meaningful impact on the world around us. My diverse skill set, combined with my passion for learning and personal growth, positions me as a valuable contributor to any team or project. As an engineer, husband, and father, I am driven by my commitment to creating a better future for my family and for society as a whole. I invite you to explore my work, skills, and experiences further, and I look forward to the possibility of working together to shape the world of tomorrow.
-
 #### Timeline ####
 
 2023-Ongoing
@@ -122,12 +120,10 @@ Scholarship
 
 #### PROJECTS ####
 Life Code
-What is it?
 Life Code is an upcoming game that allows players to create species in a sandbox-like world while maintaining a balanced ecosystem. Players can write real code in programming languages like Python and JavaScript to describe their species' behavior in the world. The game is designed to run in a browser, making it easily accessible to everyone.
 
 The game is inspired by coding games like Battlesnake and Sebastian Lague's video about balancing ecosystems. Players will need to consider the relationships between predators and prey, as well as the impact of their species on the environment, such as how they affect plant life.
 
-Development
 Challenges faced include learning Rust and Bevy, creating 3D models and animations, marketing, and implementing game mechanics that involve running user-written code in the browser. The game is designed to run in the browser for easy accessibility and sharing.
 
 Technologies used include Rust, Bevy, WASM, Blender for creating 3D models, and JavaScript and Python for writing creature behavior code. The game's UI is designed using a tool called Figma, while the artwork is generated using artificial intelligence tools like DALLE-2 and stable diffusion.
@@ -142,70 +138,57 @@ I have started I Youtube channel where people can follow the development journey
 Public code
 The game itself is not open sourced but a portion of the rendering code is! I had problem rendering the amount of grass and objects I wanted and spent a lot of time in order to get it working. I open sourced it in case other people were interested. You can check it out with the github link below.
 
-Technologies Used:
-React
-Webpack
-Yarn
-Stable diffusion
-Rust
-Bevy
-Blender
-Figma
-WASM
-JavaScript
-Python
-
 #### Skills ####
-Python:  I have use Python since 2011 and it is the language I have written the most code in. Everything from ROS, Tensorflow to a flora of microservices.  
-Rust:  Proficient in Rust programming since I decided to write Life Code (See projects) with it. It is a lovely language and I prefer it much more to C++.  
-Linux:  I always use Linux when doing anything with programming. I have used mostly Ubuntu since its 12.04 release but I have dabbled with other Linux based OS such as PopOS, Kali Linux, Fedora.  
-Git:  I always use git as version control when I code and have done since University.  
-Docker:  I have used Docker for a long time, I have used it with Docker swarm, running on AI gpu machines, Kubernetes, Docker compose, on Robot computer. I even use docker together with Vscode dev container extension.  
-Kubernetes:  Proficient in orchestrating containers with Kubernetes. I have run kubernetes on own servers, having 100+ pods running. I have used it together with Ceph, MetalLb, Istio.  
-Tensorflow:  I have used Tensorflow since it first came out. I have written both low level AI models but also high level Ai models. I have gotten my share of segfault/NaNs and developed original models using both TF1.0 and TF2.0.  
-Pytorch:  I have used Pytorch to make some models but not as much as I have with Tensorflow  
-Bevy:  Life Code (see projects) is written with Bevy and I have been part of the Bevy journey since v0.6. I have had long discord conversations with the developers and have even contributed to the Code.  
-Javascript:  Familiar with Javascript programming. I have done some frontend work and this website but I am not a hardcore frontend developer.  
-Web assembly: Experience with Web assembly due to how Life Code runs in the browser. I compile my Rust code to Wasm  
-OpenAPI:  I have used OpenAPI for API documentation for most of my Python services together with the Swagger GUI and FastAPI  
-FastAPI:  I have used FastAPI for many Python services and I am experienced in developing web applications with FastAPI  
-Poetry:  Poetry is my choice of poison when it comes to Python dependency management  
-C++:  Experience with C++ programming. I have written Robot code using C++ and ROS.  
-Simulink:  Familiar with Simulink for modeling and simulation. Spend countless of nights in the Robotics lab starring at complicated Simulink simulations.  
-Vim:  I use vim as opposed to nano or emcas when I need to edit files fast or have a SSH connection. #Sorry emacs lovers.  
-Matlab:  Did a lot of Matlab in my university days och summer job but I have not used it since then.  
-C:  I have done my share of C programming on micro-controllers but today I would prefer using Rust if performance is important.  
-Java:  I used Java at my first Job but it was also the first object oriented language I learnt.  
-Webpack:  Experience using Webpack for bundling. I use for example for this website  
-Anaconda:  Before I used Poetry+venv I used Anaconda.  
-Vscode:  Experience using Visual Studio Code. I use Vscode for all other languages except Python.  
-Pycharm:  I use Pycharm IDE for all my Python needs.  
-Build pipelines: Experience with build pipelines, I have made pipelines using both Jenkins, Tekton and Gitlab.  
-Jupyter:  I use Jupyter notebooks when I need to prototype something or experiment with especially AI models and Datasets.  
-Bash:  Experience with Bash scripting  
-GMM:  I love the concept of Gaussian Mixture Models and have even made a 3D version once.  
-Unsuper learnining: Proficient in unsupervised learning techniques. I have made many AI models which together with different clustering algorithms.  
-Seq2Seq:  Experienced in sequence-to-sequence models. I have written complicated low level LSTM seq2seq models.  
-Object detection: Skilled in object detection algorithms. I have used for example, Detectron, Faster R-CNN, YOLO and more. I have mostly used it on satellite images.  
-Anomaly detection: I have developed my own anomaly detection techniques. It is a complicated subject and it can be achieved in many different ways.  
-Transformer:  Familiar with Transformer models. I have for exampled run early versions of GPT and trained NLP using transformers.  
-LSTM:  Experience using LSTM networks. Today I would use a transformer instead.  
-RL:  Familiar with Reinforcement Learning. I trained PPO models on a game I made.  
-GAN:  Experience with Generative Adversarial Networks. For better or worse I have dabbled with GAN, it is a love/hate relationship. I love its multimodal attributes but hate the fragility of the training. I have used GAN for, image generation, anomaly detection and path prediction. If I would do image generation again I would probably used diffusion methods instead.  
-VAE:  Familiar with Variational Autoencoders  
-NLP:  Experience with Natural Language Processing techniques and algorithms.  
-ROS1:  I have made many robots using ROS1.  
-ROS2:  Proficient in ROS2. I have recently used it together with C++ even though I prefer Python when it comes to ROS.  
-Inventor:  Experienced in using Autodesk Inventor. I have made CAD models with Inventor since 2011.  
-Control Theory: Skilled in Control Theory for robotics. I have controlled everything from robotics arms and robotics dogs (no not Spot but I would love to get my hands on one!) to simple PID controllers.  
-Blender:  I have used Blender for 3D modeling, animation and video editing. I have done all the models and animation for Life Code (see projects) in Blender.  
-3D Printing: I have both a FDM and a Resin printer (Anycubic Photon 3m max) at home. I got my first 3d printer 8 years ago.  
-Solid Edge: Familiar with Solid Edge for CAD, I used it in the university.  
-Embedded:  Experience with embedded systems.  
-Gazebo:  I have setup full robot simulation together with Lidar, bumper, motors with Gazebo. I run it within a container.  
-Webots:  Experience with Webots for robot simulation  
-Raspberry pi : Experience with Raspberry Pi for embedded systems. The goto hobby project computer. I have used it for everything from tweeting pictures of my ecosystem and Halloween projects to submerged sensors.  
+Python
+Rust
+Linux
+Git
+Docker
+Kubernetes
+Tensorflow
+Pytorch
+Bevy
+Javascript
+Web assembly
+OpenAPI
+FastAPI
+Poetry
+C++
+Simulink
+Vim
+Matlab
+C
+Java
+Webpack
+Anaconda
+Vscode
+Pycharm
+Build pipelines
+Jupyter
+Bash
+GMM
+Unsuper learnining
+Seq2Seqd
+Object detection
+Anomaly detection
+Transformer
+LSTM
+RL
+GAN
+VAE
+NLP
+ROS1
+ROS2
+Inventord
+Control Theory
+Blender
+3D Printing
+Solid Edge
+Embedded
+Gazebo
+Webots
+Raspberry pi
 
-######
+###
 
-Remember, short answers!
+Give only short answers!
