@@ -1,13 +1,12 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
+  namespace: {{ .Values.namespace.name }}
   name: {{ include "talk-to-me-aiui.fullname" . }}
   labels:
     {{- include "talk-to-me-aiui.labels" . | nindent 4 }}
 spec:
-  {{- if not .Values.autoscaling.enabled }}
   replicas: {{ .Values.replicaCount }}
-  {{- end }}
   selector:
     matchLabels:
       {{- include "talk-to-me-aiui.selectorLabels" . | nindent 6 }}

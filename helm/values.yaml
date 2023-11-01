@@ -53,3 +53,6 @@ elevenlabs:
 
 llm:
   text_model: gpt-3.5-turbo
+
+namespace:
+  name: talk-to-me
